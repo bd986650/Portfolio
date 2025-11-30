@@ -1,7 +1,5 @@
 # Portfolio Website
 
-## 🚀 Technologies
-
 ### Core Stack
 - **React 19** - UI library
 - **TypeScript** - type safety
